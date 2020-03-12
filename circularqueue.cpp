@@ -75,7 +75,7 @@ int CircularQueue :: dequeue()
         return(y);
     }
 }
-
+//fork
 void CircularQueue :: display()
 {
     int i;
